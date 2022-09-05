@@ -24,6 +24,7 @@ Wanneer je deze GIT repository lokaal hebt geïnstalleerd en ervoor hebt gezorgd
 Aan jou de taak om deze foutmelding op te lossen.
 
 
+
 ### Opdracht 2 - Palindroom
 Dagelijks kom je als software developer bijzondere uitdagingen tegen. Het is belangrijk om tot een goed werkende oplossing te komen, dat ook nog eens herbruikbaar is voor in de toekomst.
 
@@ -32,6 +33,7 @@ De uitdaging hier is dat de klant een liefhebber is van palindromen. Nee, dat zi
 Het is de bedoeling dat je een stuk code schrijft, die kan bepalen of een ingegeven woord een palindroom is. Hierbij moet er een goede en foute resultaat uit voortkomen.
 
 > (_Optioneel_) Om het je een stukje lastiger te maken, zou je hier een unit test voor kunnen maken. 
+
 
 
 ### Opdracht 3 - CRUD
